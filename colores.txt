@@ -4,3 +4,4 @@ azul
  amarillo 
 naranja
 morado
+cyan
