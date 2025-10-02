@@ -5,3 +5,5 @@ azul
 naranja
 morado
 rosa
+cyan
+
